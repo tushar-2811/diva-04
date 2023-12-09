@@ -22,8 +22,8 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Gentlemen,</span> My name is <span className="font-extrabold text-white">Sophia,</span> your bubbly, 
-        thoughtful and caring sweetheart for any occasion.My name is Vivian Rose. I am an upscale companion based in the windy city - Chicago. 
+        <span className="font-extrabold text-white">Gentlemen,</span> My name is <span className="font-extrabold text-white">Vivian Rose,</span> your bubbly, 
+        thoughtful and caring sweetheart for any occasion. I am an upscale companion based in the windy city - Chicago. 
 
  
 
